@@ -1,0 +1,204 @@
+% % You *must* use dalthesis and {report} if you want to make use of the style
+% % templates provided by our PhD predecessors.
+
+\RequirePackage[l2tabu, orthodox]{nag}
+\documentclass[a4paper,12pt,twoside,openany,dalthesis]{report}
+
+%-------------------------------------------------------------------------%
+%-------------------------------------------------------------------------%
+% Make it yours...
+%-------------------------------------------------------------------------%
+
+\makeatletter
+\title{Dust Traced Star Formation in High Redshift Galaxies \\ and the \\ Evolution of Dust to the Present Day} \let\Title\@title
+\author{Bradley Anthony Ward} \let\Author\@author
+\newcommand{\Shortauthor}{B. A. Ward}
+\date{June 2024} \let\Date\@date
+\makeatother
+
+%-------------------------------------------------------------------------%
+\usepackage[T1]{fontenc}
+\usepackage{fancyhdr}
+\usepackage[document]{ragged2e}
+\usepackage{Style/New_Cardiff_Thesis}
+\usepackage{Style/deluxetable}
+\usepackage{Style/aas_macros}
+\usepackage{babel}
+\usepackage{aecompl}
+\usepackage{graphicx} % Including figure files
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{multirow}   % Allows for multiple row and multiple column for one entry in tables
+\usepackage{amssymb}	% Extra maths symbols 
+\usepackage{amsmath}    % Advanced maths commands
+\usepackage{latexsym}
+\usepackage{titlesec}
+\usepackage{afterpage}
+\usepackage{microtype}
+\usepackage{tabu}
+\usepackage{textcomp}
+\usepackage{longtable}
+\usepackage{setspace}
+\usepackage{adjustbox}
+\usepackage{rotating}
+\usepackage{float}
+\usepackage{bold-extra}
+\usepackage{threeparttable}
+\usepackage{booktabs}   % Allows for use of \midrule etc in tables
+\usepackage{relsize}
+\usepackage[breaklinks]{hyperref}
+\usepackage[labelsep=period,labelfont=bf,size=normalsize]{caption}
+\usepackage{lscape}
+\usepackage{breakurl}
+\usepackage{mathtools}
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{xcolor}
+\usepackage[a4paper, bindingoffset=20mm, inner=20mm, outer=20mm, top=20mm, bottom = 20mm, includehead, includefoot]{geometry} %<--- Printing for binding -- ATH 2022
+
+%% Uncomment \usepackage{layout} here, and \layout* (end of doc) to view layout config page if you wish to use this.
+% \usepackage{layout}
+
+\usepackage{pdflscape}
+
+\usepackage{subcaption}  % Allows for sub captions within mini page figures
+\usepackage{todonotes}  % Use \todo etc to create to do items etc and track tasks
+
+%\usepackage{biblatex}
+%\usepackage{tetex-extra}
+%\usepackage{parskip}
+
+
+% Allow "Thomas van Noord" and "Simon de Laguarde" and alike to be sorted by "N" and "L" etc. in the bibliography.
+% Write the name in the bibliography as "\VAN{Noord}{Van}{van} Noord, Thomas"
+\DeclareRobustCommand{\VAN}[3]{#2}
+\let\VANthebibliography\thebibliography
+\def\thebibliography{\DeclareRobustCommand{\VAN}[3]{##3}\VANthebibliography}
+
+
+\newcommand{\chapquote}[3]{\begin{quotation} \textit{#1} \end{quotation} \begin{flushright}  #2 \textit{#3}\end{flushright} }
+
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \newpage}
+
+% \graphicspath{Chapters/Figures/}
+
+\newcommand{\msol}{\mathrm{M_{\odot}}}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\usepackage{enumitem}
+\setlist{listparindent=\parindent}
+
+\newcommand{\micron}{\textmu m}
+
+\begin{document}
+\renewcommand{\familydefault}{ptm}%<--- we are required to use Sans Serif by CU
+\fontfamily{ptm}\selectfont  %<--- we are required to use Sans Serif by CU
+\normalfont
+%\FlushLeft %<--- we are required to Left-Justify by CU
+\justifying %<--- full-justified
+% Define new commands
+\input{journals}
+
+% Make shortcuts to your favourite citations for ease of writing...
+\defcitealias{2018Coogan}{C18}
+%-------------------------------------------------------------------------%
+%-------------------------------------------------------------------------%
+% Add your supervisory details
+%-------------------------------------------------------------------------%
+\phd
+\title{\Title}
+\submitdate{\Date}
+\author{\Author}
+\university{Cardiff University}
+\twosupervisors
+\supervisor{Stephen Eales}
+\firstreader{Matthew Smith}
+%------------------------------------------------------------------------%
+% Control some optional layout args
+
+\noserif %<--- Toggle if you want serif to be allowed in Titles and sections
+% \nodedication
+% \noacknowledgementspage
+
+% \nofront
+
+
+%------------------
+\titleformat{\chapter}[display]{}{\chapter}{}{\huge \textbf \textsc}[\titlerule\vspace{2pt}\titlerule]
+
+\dedicate{\vspace{6.35in}\textit{``A dedication quote/sentence''}}
+
+\beforepreface
+
+\prefacesection{Abstract}
+\input{Chapters/Abstract}
+
+\prefacesection{Publications}
+\input{Chapters/Publications}
+
+\afterpreface
+
+\onehalfspacing
+   
+% Create main format for titles
+%\titleformat{\chapter}[display]{}{}{0pt}{\scshape\huge Chapter \thechapter}[\titlerule\vspace{2pt}\titlerule]
+\titleformat{\chapter}[display]{}{}{15pt}{{\textbf \huge \textsc{Chapter} \thechapter}\\ \huge \textbf \textsc}[\titlerule\vspace{2pt}\titlerule]
+%\addtolength{\parindent}{0.5in}
+%\doublespacing
+
+\chapter{Introduction}
+\label{chapter:Introduction}
+\input{Chapters/Introduction}
+
+\chapter{Herschel-ATLAS Data Release III}
+\label{chapter:Data_Release_3}
+\input{Chapters/Data_Release_3}
+
+\chapter{Redshift Evolution of the Dust Mass Function}
+\label{chapter:Dust_Mass_Functions}
+\input{Chapters/Dust_Mass_Functions}
+
+\chapter{Dust Properties of IR-bright, Star Forming Galaxies}
+\label{chapter:Dust_Evolution}
+\input{Chapters/SED_Fitting}
+
+\chapter{Radio Observations of \textit{Herschel} Galaxies}
+\label{chapter:Radio_Identifications}
+\input{Chapters/Radio_Identifications}
+
+\chapter{Conclusions}
+\label{chapter:Conclusion}
+\input{Chapters/Conclusion}
+
+\appendix
+
+
+\titleformat{\chapter}[display]{}{}{0pt}{{\textbf \huge \textsc{Appendix} \thechapter}\\ \huge \textbf \textsc}[\titlerule\vspace{2pt}\titlerule]
+
+\input{Chapters/Appendix_A}
+\label{app:candidate_lenses_bright}
+
+\input{Chapters/Appendix_B}
+\label{app:HerBS_photometry}
+
+\input{Chapters/Appendix_C}
+\label{app:HerBS_SEDs}
+
+\input{Chapters/Appendix_D}
+\label{app:SPT_DSFG_SEDs}
+
+% Define bibliography
+\titleformat{\chapter}[display]{}{}{0pt}{\huge \textbf \textsc}[\titlerule\vspace{2pt}\titlerule]
+%\input{journalCommand}
+
+
+%\printbibliography
+\bibliographystyle{mnras}
+\bibliography{Thesis.bib}
+
+%% Uncomment \layout* to view layout config page
+% \layout*
+\end{document}
