@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
 The style file: mnras.bst
-Reallocated field_info (elt_size=4) to 16799 items from 5000.
+Reallocated field_info (elt_size=4) to 16826 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
@@ -15,45 +15,45 @@ Warning--empty publisher in Dyson_1997
 Warning--empty publisher in Hubble_1936
 Warning--empty publisher in Peebles_1980
 Warning--empty publisher in Whittet_2002
-You've used 437 entries,
+You've used 438 entries,
             2881 wiz_defined-function locations,
-            4494 strings with 264656 characters,
-and the built_in function-call counts, 191064 in all, are:
-= -- 16882
-> -- 11863
-< -- 586
-+ -- 5422
-- -- 1317
-* -- 25393
-:= -- 28095
+            4502 strings with 264924 characters,
+and the built_in function-call counts, 191563 in all, are:
+= -- 16922
+> -- 11902
+< -- 588
++ -- 5439
+- -- 1323
+* -- 25457
+:= -- 28175
 add.period$ -- 0
-call.type$ -- 437
-change.case$ -- 874
-chr.to.int$ -- 422
-cite$ -- 442
-duplicate$ -- 9795
-empty$ -- 10016
-format.name$ -- 2842
-if$ -- 33238
+call.type$ -- 438
+change.case$ -- 876
+chr.to.int$ -- 423
+cite$ -- 443
+duplicate$ -- 9818
+empty$ -- 10038
+format.name$ -- 2850
+if$ -- 33322
 int.to.chr$ -- 16
 int.to.str$ -- 0
-missing$ -- 444
-newline$ -- 1328
-num.names$ -- 2469
-pop$ -- 1956
+missing$ -- 445
+newline$ -- 1331
+num.names$ -- 2477
+pop$ -- 1961
 preamble$ -- 1
-purify$ -- 1748
+purify$ -- 1752
 quote$ -- 0
-skip$ -- 5875
+skip$ -- 5888
 stack$ -- 0
-substring$ -- 12073
-swap$ -- 4432
-text.length$ -- 1783
+substring$ -- 12101
+swap$ -- 4448
+text.length$ -- 1787
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3912
+type$ -- 3921
 warning$ -- 5
-while$ -- 3006
+while$ -- 3014
 width$ -- 0
-write$ -- 4392
+write$ -- 4402
 (There were 5 warnings)
