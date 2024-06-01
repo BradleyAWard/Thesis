@@ -8,17 +8,17 @@
 \contentsline {subsection}{\numberline {1.1.1}Classification of Galaxies}{3}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}The Star Forming Main Sequence}{4}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.1.3}Cosmic Star Formation History}{7}{subsection.1.1.3}%
-\contentsline {section}{\numberline {1.2}The Interstellar Medium}{9}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Cosmic Dust}{12}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Chemical Composition of Dust}{12}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}The Reprocessing of Starlight}{12}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}The Lifecycle of Dust}{15}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.2}The Interstellar Medium}{10}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Cosmic Dust}{13}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Chemical Composition of Dust}{13}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}The Reprocessing of Starlight}{13}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}The Lifecycle of Dust}{14}{subsection.1.3.3}%
 \contentsline {section}{\numberline {1.4}Observing Dusty Star Forming Galaxies in the Far-IR and Sub-mm}{16}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}The First Submillimeter Galaxies}{17}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2}The \textit {Herschel Space Observatory}}{21}{subsection.1.4.2}%
 \contentsline {subsection}{\numberline {1.4.3}\textit {Herschel} Surveys}{22}{subsection.1.4.3}%
-\contentsline {section}{\numberline {1.5}Challenges in Identifying DSFGs and their Multiwavelength Counterparts}{24}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Outline of Thesis}{26}{section.1.6}%
+\contentsline {section}{\numberline {1.5}Challenges in Identifying DSFGs and their Multiwavelength Counterparts}{23}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Outline of Thesis}{27}{section.1.6}%
 \contentsline {chapter}{\numberline {2}Herschel-ATLAS Data Release III}{29}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{29}{section.2.1}%
 \contentsline {section}{\numberline {2.2}The Herschel-ATLAS}{30}{section.2.2}%

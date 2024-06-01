@@ -17,43 +17,43 @@ Warning--empty publisher in Peebles_1980
 Warning--empty publisher in Whittet_2002
 You've used 439 entries,
             2881 wiz_defined-function locations,
-            4511 strings with 265189 characters,
-and the built_in function-call counts, 192094 in all, are:
-= -- 16966
-> -- 11944
-< -- 590
-+ -- 5455
-- -- 1331
-* -- 25524
-:= -- 28260
+            4512 strings with 263496 characters,
+and the built_in function-call counts, 192478 in all, are:
+= -- 16958
+> -- 12022
+< -- 604
++ -- 5482
+- -- 1353
+* -- 25548
+:= -- 28366
 add.period$ -- 0
 call.type$ -- 439
 change.case$ -- 878
-chr.to.int$ -- 424
+chr.to.int$ -- 425
 cite$ -- 444
-duplicate$ -- 9841
+duplicate$ -- 9847
 empty$ -- 10060
-format.name$ -- 2860
-if$ -- 33414
-int.to.chr$ -- 16
+format.name$ -- 2882
+if$ -- 33468
+int.to.chr$ -- 15
 int.to.str$ -- 0
 missing$ -- 446
 newline$ -- 1334
-num.names$ -- 2485
-pop$ -- 1965
+num.names$ -- 2499
+pop$ -- 1963
 preamble$ -- 1
 purify$ -- 1756
 quote$ -- 0
-skip$ -- 5902
+skip$ -- 5913
 stack$ -- 0
-substring$ -- 12135
-swap$ -- 4464
+substring$ -- 12111
+swap$ -- 4496
 text.length$ -- 1791
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 3930
 warning$ -- 5
-while$ -- 3022
+while$ -- 3030
 width$ -- 0
 write$ -- 4412
 (There were 5 warnings)
