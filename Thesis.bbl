@@ -158,10 +158,16 @@
   {https://ui.adsabs.harvard.edu/abs/2003AJ....125.1866B} {125, 1866}
 
 \bibitem[\protect\citeauthoryear{{B{\'e}thermin} et~al.,}{{B{\'e}thermin}
-  et~al.}{2015}]{Bethermin_2015}
-{B{\'e}thermin} M.,  et~al., 2015, \mn@doi [\aap]
+  et~al.}{2015a}]{Bethermin_2015}
+{B{\'e}thermin} M.,  et~al., 2015a, \mn@doi [\aap]
   {10.1051/0004-6361/201425031}, \href
   {https://ui.adsabs.harvard.edu/abs/2015A&A...573A.113B} {573, A113}
+
+\bibitem[\protect\citeauthoryear{{B{\'e}thermin}, {De Breuck}, {Sargent}  \&
+  {Daddi}}{{B{\'e}thermin} et~al.}{2015b}]{Bethermin_2015b}
+{B{\'e}thermin} M.,  {De Breuck} C.,  {Sargent} M.,   {Daddi} E.,  2015b,
+  \mn@doi [\aap] {10.1051/0004-6361/201525718}, \href
+  {https://ui.adsabs.harvard.edu/abs/2015A&A...576L...9B} {576, L9}
 
 \bibitem[\protect\citeauthoryear{{Biggs} et~al.,}{{Biggs}
   et~al.}{2011}]{Biggs_2011}
