@@ -24,6 +24,11 @@
   {10.1093/mnras/279.3.L47}, \href
   {https://ui.adsabs.harvard.edu/abs/1996MNRAS.279L..47A} {279, L47}
 
+\bibitem[\protect\citeauthoryear{{Alberts} et~al.,}{{Alberts}
+  et~al.}{2013}]{Alberts_2013}
+{Alberts} S.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt155}, \href
+  {https://ui.adsabs.harvard.edu/abs/2013MNRAS.431..194A} {431, 194}
+
 \bibitem[\protect\citeauthoryear{{Almosallam}, {Jarvis}  \&
   {Roberts}}{{Almosallam} et~al.}{2016}]{Almosallam_2016}
 {Almosallam} I.~A.,  {Jarvis} M.~J.,   {Roberts} S.~J.,  2016, \mn@doi [\mnras]
@@ -760,6 +765,10 @@ Borys C.,  Smail I.,  Chapman S.~C.,  Blain A.~W.,  Alexander D.~M.,   Ivison
   {10.1086/518430}, \href
   {https://ui.adsabs.harvard.edu/abs/2007ApJ...662..927D} {662, 927}
 
+\bibitem[\protect\citeauthoryear{{Dye} et~al.,}{{Dye} et~al.}{2008}]{Dye_2008}
+{Dye} S.,  et~al., 2008, \mn@doi [\mnras] {10.1111/j.1365-2966.2008.13113.x},
+  \href {https://ui.adsabs.harvard.edu/abs/2008MNRAS.386.1107D} {386, 1107}
+
 \bibitem[\protect\citeauthoryear{{Dye} et~al.,}{{Dye} et~al.}{2009}]{Dye_2009}
 {Dye} S.,  et~al., 2009, \mn@doi [\apj] {10.1088/0004-637X/703/1/285}, \href
   {https://ui.adsabs.harvard.edu/abs/2009ApJ...703..285D} {703, 285}
@@ -926,6 +935,12 @@ Ferguson H.~C.,  Dickinson M.,   Williams R.,  2000, Annual Review of Astronomy
   et~al.}{2017}]{Fudamoto_2017}
 {Fudamoto} Y.,  et~al., 2017, \mn@doi [\mnras] {10.1093/mnras/stx1956}, \href
   {https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.2028F} {472, 2028}
+
+\bibitem[\protect\citeauthoryear{{Fujimoto}, {Ouchi}, {Ono}, {Shibuya},
+  {Ishigaki}, {Nagai}  \& {Momose}}{{Fujimoto} et~al.}{2016}]{Fujimoto_2016}
+{Fujimoto} S.,  {Ouchi} M.,  {Ono} Y.,  {Shibuya} T.,  {Ishigaki} M.,  {Nagai}
+  H.,   {Momose} R.,  2016, \mn@doi [\apjs] {10.3847/0067-0049/222/1/1}, \href
+  {https://ui.adsabs.harvard.edu/abs/2016ApJS..222....1F} {222, 1}
 
 \bibitem[\protect\citeauthoryear{{Fukugita} \& {Peebles}}{{Fukugita} \&
   {Peebles}}{2004}]{Fukugita_2004}
@@ -1104,6 +1119,11 @@ Herschel W.,  1785, Philosophical Transactions of the Royal Society of London,
 {Hickox} R.~C.,  et~al., 2012, \mn@doi [\mnras]
   {10.1111/j.1365-2966.2011.20303.x}, \href
   {https://ui.adsabs.harvard.edu/abs/2012MNRAS.421..284H} {421, 284}
+
+\bibitem[\protect\citeauthoryear{{Hodge} et~al.,}{{Hodge}
+  et~al.}{2013}]{Hodge_2013}
+{Hodge} J.~A.,  et~al., 2013, \mn@doi [\apj] {10.1088/0004-637X/768/1/91},
+  \href {https://ui.adsabs.harvard.edu/abs/2013ApJ...768...91H} {768, 91}
 
 \bibitem[\protect\citeauthoryear{{Holder} et~al.,}{{Holder}
   et~al.}{2013}]{Holder_2013}
@@ -1529,6 +1549,11 @@ Messier C.,  1781, Connoissance des Temps ou des Mouvements C{\'e}lestes, pp
   {Hayward} C.~C.,   {Watson} D.,  2012b, \mn@doi [\aap]
   {10.1051/0004-6361/201016308}, \href
   {https://ui.adsabs.harvard.edu/abs/2012A&A...541A..85M} {541, A85}
+
+\bibitem[\protect\citeauthoryear{{Miettinen} et~al.,}{{Miettinen}
+  et~al.}{2015}]{Miettinen_2015}
+{Miettinen} O.,  et~al., 2015, \mn@doi [\aap] {10.1051/0004-6361/201425032},
+  \href {https://ui.adsabs.harvard.edu/abs/2015A&A...577A..29M} {577, A29}
 
 \bibitem[\protect\citeauthoryear{{Millard} et~al.,}{{Millard}
   et~al.}{2020}]{Millard_2020}
