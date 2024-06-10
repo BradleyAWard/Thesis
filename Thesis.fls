@@ -1726,11 +1726,11 @@ INPUT ./Figures/lens_probability_scatter.pdf
 INPUT Figures/lens_probability_scatter.pdf
 INPUT ./Figures/lens_probability_scatter.pdf
 INPUT ./Figures/lens_probability_scatter.pdf
-INPUT ./Figures/lens_false_positive.pdf
-INPUT ./Figures/lens_false_positive.pdf
-INPUT Figures/lens_false_positive.pdf
-INPUT ./Figures/lens_false_positive.pdf
-INPUT ./Figures/lens_false_positive.pdf
+INPUT ./Figures/Figure_2_11.pdf
+INPUT ./Figures/Figure_2_11.pdf
+INPUT Figures/Figure_2_11.pdf
+INPUT ./Figures/Figure_2_11.pdf
+INPUT ./Figures/Figure_2_11.pdf
 INPUT ./Figures/lens_redshift_distribution.pdf
 INPUT ./Figures/lens_redshift_distribution.pdf
 INPUT Figures/lens_redshift_distribution.pdf
