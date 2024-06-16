@@ -57,23 +57,23 @@
 \contentsline {subsection}{\numberline {3.7.2}Evolution of the Dust Mass Function}{88}{subsection.3.7.2}%
 \contentsline {subsection}{\numberline {3.7.3}Dust Mass Density}{89}{subsection.3.7.3}%
 \contentsline {subsection}{\numberline {3.7.4}Comparison with the Star Formation Rate Density}{92}{subsection.3.7.4}%
-\contentsline {section}{\numberline {3.8}Conclusions}{93}{section.3.8}%
-\contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{96}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{96}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Obtaining Redshifts from Carbon Monoxide Lines}{97}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Sample Creation}{98}{section.4.3}%
+\contentsline {section}{\numberline {3.8}Conclusions}{94}{section.3.8}%
+\contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{95}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{95}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Obtaining Redshifts from Carbon Monoxide Lines}{96}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Sample Creation}{97}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}South Pole Telescope DSFGs}{98}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}The HerBS Sample}{100}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}The HerBS Sample}{99}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Restrictions on Sub-samples}{101}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Far-Infrared and Sub-mm Colours}{102}{section.4.4}%
-\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{103}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Results of SED Fitting}{109}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Example SEDs - SPT0002-52 and HerBS-11}{109}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Comparison between Optically Thin and General Opacity Models}{109}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}The $\beta $-Dust Temperature Degeneracy}{113}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.4}Far-Infrared and Sub-mm Colours}{101}{section.4.4}%
+\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{104}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Results of SED Fitting}{108}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Example SEDs - SPT0002-52 and HerBS-11}{108}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Comparison between Optically Thin and General Opacity Models}{110}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}The $\beta $-Dust Temperature Degeneracy}{112}{subsection.4.6.3}%
 \contentsline {section}{\numberline {4.7}Simulations}{115}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Evolution of Dust Properties with Redshift}{117}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Evolution of $\beta $ with Redshift}{118}{subsection.4.8.1}%
+\contentsline {section}{\numberline {4.8}Evolution of Dust Properties with Redshift}{116}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Evolution of $\beta $ with Redshift}{116}{subsection.4.8.1}%
 \contentsline {subsection}{\numberline {4.8.2}Variation in $\beta $}{119}{subsection.4.8.2}%
 \contentsline {subsection}{\numberline {4.8.3}Evolution of $T_{\textrm {dust}}$ with Redshift}{121}{subsection.4.8.3}%
 \contentsline {section}{\numberline {4.9}Conclusions}{122}{section.4.9}%

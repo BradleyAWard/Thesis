@@ -999,6 +999,12 @@ Ferguson H.~C.,  Dickinson M.,   Williams R.,  2000, Annual Review of Astronomy
 {Gerhard} O.,  2002, \mn@doi [\ssr] {10.1023/A:1015818111633}, \href
   {https://ui.adsabs.harvard.edu/abs/2002SSRv..100..129G} {100, 129}
 
+\bibitem[\protect\citeauthoryear{{Glover} \& {Mac Low}}{{Glover} \& {Mac
+  Low}}{2011}]{Glover_2011}
+{Glover} S.~C.~O.,  {Mac Low} M.~M.,  2011, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2010.17907.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2011MNRAS.412..337G} {412, 337}
+
 \bibitem[\protect\citeauthoryear{{Gomez} et~al.,}{{Gomez}
   et~al.}{2012}]{Gomez_2012}
 {Gomez} H.~L.,  et~al., 2012, \mn@doi [\apj] {10.1088/0004-637X/760/1/96},
@@ -1814,6 +1820,12 @@ Messier C.,  1781, Connoissance des Temps ou des Mouvements C{\'e}lestes, pp
 {Rho} J.,  et~al., 2008, \mn@doi [\apj] {10.1086/523835}, \href
   {https://ui.adsabs.harvard.edu/abs/2008ApJ...673..271R} {673, 271}
 
+\bibitem[\protect\citeauthoryear{{Rickard}, {Palmer}, {Morris}, {Zuckerman}  \&
+  {Turner}}{{Rickard} et~al.}{1975}]{Rickard_1975}
+{Rickard} L.~J.,  {Palmer} P.,  {Morris} M.,  {Zuckerman} B.,   {Turner} B.~E.,
+   1975, \mn@doi [\apjl] {10.1086/181852}, \href
+  {https://ui.adsabs.harvard.edu/abs/1975ApJ...199L..75R} {199, L75}
+
 \bibitem[\protect\citeauthoryear{{Rigby} et~al.,}{{Rigby}
   et~al.}{2011}]{Rigby_2011}
 {Rigby} E.~E.,  et~al., 2011, \mn@doi [\mnras]
@@ -2203,6 +2215,12 @@ Messier C.,  1781, Connoissance des Temps ou des Mouvements C{\'e}lestes, pp
   et~al.}{2020b}]{Valentino_2020a}
 {Valentino} F.,  et~al., 2020b, \mn@doi [\apj] {10.3847/1538-4357/ab6603},
   \href {https://ui.adsabs.harvard.edu/abs/2020ApJ...890...24V} {890, 24}
+
+\bibitem[\protect\citeauthoryear{{Valiante}, {Schneider}, {Bianchi}  \&
+  {Andersen}}{{Valiante} et~al.}{2009}]{Valiante_2009}
+{Valiante} R.,  {Schneider} R.,  {Bianchi} S.,   {Andersen} A.~C.,  2009,
+  \mn@doi [\mnras] {10.1111/j.1365-2966.2009.15076.x}, \href
+  {https://ui.adsabs.harvard.edu/abs/2009MNRAS.397.1661V} {397, 1661}
 
 \bibitem[\protect\citeauthoryear{{Valiante}, {Schneider}, {Salvadori}  \&
   {Bianchi}}{{Valiante} et~al.}{2011}]{Valiante_2011}
