@@ -66,17 +66,17 @@
 \contentsline {subsection}{\numberline {4.3.2}The HerBS Sample}{99}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Restrictions on Sub-samples}{100}{subsection.4.3.3}%
 \contentsline {section}{\numberline {4.4}Far-Infrared and Sub-mm Colours}{101}{section.4.4}%
-\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{102}{section.4.5}%
+\contentsline {section}{\numberline {4.5}SED Fitting of DSFGs}{104}{section.4.5}%
 \contentsline {section}{\numberline {4.6}Results of SED Fitting}{108}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Example SEDs - SPT0002-52 and HerBS-11}{108}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Comparison between Optically Thin and General Opacity Models}{108}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.2}Comparison between Optically Thin and General Opacity Models}{110}{subsection.4.6.2}%
 \contentsline {subsection}{\numberline {4.6.3}The $\beta $-Dust Temperature Degeneracy}{112}{subsection.4.6.3}%
-\contentsline {section}{\numberline {4.7}Simulations}{114}{section.4.7}%
+\contentsline {section}{\numberline {4.7}Simulations}{115}{section.4.7}%
 \contentsline {section}{\numberline {4.8}Evolution of Dust Properties with Redshift}{116}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Evolution of $\beta $ with Redshift}{117}{subsection.4.8.1}%
-\contentsline {subsection}{\numberline {4.8.2}Variation in $\beta $}{117}{subsection.4.8.2}%
-\contentsline {subsection}{\numberline {4.8.3}Evolution of $T_{\textrm {dust}}$ with Redshift}{119}{subsection.4.8.3}%
-\contentsline {section}{\numberline {4.9}Conclusions}{121}{section.4.9}%
+\contentsline {subsection}{\numberline {4.8.1}Evolution of $\beta $ with Redshift}{116}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Variation in $\beta $}{119}{subsection.4.8.2}%
+\contentsline {subsection}{\numberline {4.8.3}Evolution of $T_{\textrm {dust}}$ with Redshift}{121}{subsection.4.8.3}%
+\contentsline {section}{\numberline {4.9}Conclusions}{122}{section.4.9}%
 \contentsline {chapter}{\numberline {5}Radio Observations of \textit {Herschel} Galaxies}{124}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Introduction}{124}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Identifying Multiwavelength Counterparts to DSFGs via the Radio}{125}{section.5.2}%
