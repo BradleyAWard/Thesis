@@ -24,6 +24,12 @@
   {10.1093/mnras/279.3.L47}, \href
   {https://ui.adsabs.harvard.edu/abs/1996MNRAS.279L..47A} {279, L47}
 
+\bibitem[\protect\citeauthoryear{{Agladze}, {Sievers}, {Jones}, {Burlitch}  \&
+  {Beckwith}}{{Agladze} et~al.}{1996}]{Agladze_1996}
+{Agladze} N.~I.,  {Sievers} A.~J.,  {Jones} S.~A.,  {Burlitch} J.~M.,
+  {Beckwith} S.~V.~W.,  1996, \mn@doi [\apj] {10.1086/177217}, \href
+  {https://ui.adsabs.harvard.edu/abs/1996ApJ...462.1026A} {462, 1026}
+
 \bibitem[\protect\citeauthoryear{{Alberts} et~al.,}{{Alberts}
   et~al.}{2013}]{Alberts_2013}
 {Alberts} S.,  et~al., 2013, \mn@doi [\mnras] {10.1093/mnras/stt155}, \href
@@ -1517,6 +1523,12 @@ Langley S.~P.,  1880, in Proceedings of the American Academy of Arts and
   {Ostriker}}{1977}]{McKee_1977}
 {McKee} C.~F.,  {Ostriker} J.~P.,  1977, \mn@doi [\apj] {10.1086/155667}, \href
   {https://ui.adsabs.harvard.edu/abs/1977ApJ...218..148M} {218, 148}
+
+\bibitem[\protect\citeauthoryear{{Meny}, {Gromov}, {Boudet}, {Bernard},
+  {Paradis}  \& {Nayral}}{{Meny} et~al.}{2007}]{Meny_2007}
+{Meny} C.,  {Gromov} V.,  {Boudet} N.,  {Bernard} J.~P.,  {Paradis} D.,
+  {Nayral} C.,  2007, \mn@doi [\aap] {10.1051/0004-6361:20065771}, \href
+  {https://ui.adsabs.harvard.edu/abs/2007A&A...468..171M} {468, 171}
 
 \bibitem[\protect\citeauthoryear{Messier}{Messier}{1771}]{Messier_1771}
 Messier C.,  1771, Mem. Mat. Phys. Acad. des Sci. for
