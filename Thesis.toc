@@ -97,7 +97,7 @@
 \contentsline {section}{\numberline {6.2}Key Results}{154}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Future Work}{157}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Concluding Remarks}{159}{section.6.4}%
-\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{160}{appendix.A}%
-\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{163}{appendix.B}%
-\contentsline {chapter}{\numberline {C}HerBS SEDs}{166}{appendix.C}%
-\contentsline {chapter}{\numberline {D}SPT-DSFG SEDs}{170}{appendix.D}%
+\contentsline {chapter}{\numberline {A}Bright Lensed Sources in the SGP}{161}{appendix.A}%
+\contentsline {chapter}{\numberline {B}HerBS Sample Photometry}{164}{appendix.B}%
+\contentsline {chapter}{\numberline {C}HerBS SEDs}{167}{appendix.C}%
+\contentsline {chapter}{\numberline {D}SPT-DSFG SEDs}{171}{appendix.D}%
