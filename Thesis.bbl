@@ -526,6 +526,11 @@ Borys C.,  Smail I.,  Chapman S.~C.,  Blain A.~W.,  Alexander D.~M.,   Ivison
 {Daddi} E.,  et~al., 2010, \mn@doi [\apjl] {10.1088/2041-8205/714/1/L118},
   \href {https://ui.adsabs.harvard.edu/abs/2010ApJ...714L.118D} {714, L118}
 
+\bibitem[\protect\citeauthoryear{{Daddi} et~al.,}{{Daddi}
+  et~al.}{2022}]{Daddi_2022}
+{Daddi} E.,  et~al., 2022, \mn@doi [\aap] {10.1051/0004-6361/202243574}, \href
+  {https://ui.adsabs.harvard.edu/abs/2022A&A...661L...7D} {661, L7}
+
 \bibitem[\protect\citeauthoryear{{Dahlen}, {Mobasher}, {Dickinson}, {Ferguson},
   {Giavalisco}, {Kretchmer}  \& {Ravindranath}}{{Dahlen}
   et~al.}{2007}]{Dahlen_2007}
@@ -1758,6 +1763,11 @@ Messier C.,  1781, Connoissance des Temps ou des Mouvements C{\'e}lestes, pp
   et~al.}{2006}]{Pope_2006}
 {Pope} A.,  et~al., 2006, \mn@doi [\mnras] {10.1111/j.1365-2966.2006.10575.x},
   \href {https://ui.adsabs.harvard.edu/abs/2006MNRAS.370.1185P} {370, 1185}
+
+\bibitem[\protect\citeauthoryear{{Popesso} et~al.,}{{Popesso}
+  et~al.}{2023}]{Popesso_2023}
+{Popesso} P.,  et~al., 2023, \mn@doi [\mnras] {10.1093/mnras/stac3214}, \href
+  {https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.1526P} {519, 1526}
 
 \bibitem[\protect\citeauthoryear{{Popping} \& {P{\'e}roux}}{{Popping} \&
   {P{\'e}roux}}{2022}]{Popping_2022}
