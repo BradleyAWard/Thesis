@@ -4,7 +4,7 @@
 
 The aim of this Thesis was to use observations at far-IR and sub-mm wavelengths, predominantly from the \textit{Herschel Space Observatory}, to investigate the dust properties of active star forming galaxies, understand the role that they play in the galaxy building epoch of the Universe and to study the evolution of the dust content of galaxies across time. We recall the research questions underpinning the research in this Thesis, that were presented in Chapter \ref{chapter:Introduction}: How has the dust content of galaxies evolved to the present day? Are the dust properties of galaxies the same at all cosmic epochs? And in what evolutionary stage do we observe dust-enshrouded, IR-bright galaxies; do they provide the link to the massive systems we observe in the local Universe today? 
 
-This work heavily relies on \textit{Herschel} selected samples in order to make progress answering these questions. Starting with the H-ATLAS project, for which we present a comprehensive data release of near-IR counterparts in the SGP, and then use to derive their dust masses and the evolution in the space density of dust over the past $8\,$Gyr. We also make use of HerBS and the SPT-SZ survey, which represents a collection of some of the brightest IR galaxies known, allowing us to investigate their dust properties and determine if they are comparable to the local Universe. This is of particular importance to extragalactic studies at high redshifts where it is not uncommon to assume that the dust is non-evolving and is therefore the same as Galactic and local galaxy interstellar dust. Finally, we make use of the HerMES coverage of COSMOS to utilize the exceptional multiwavelength coverage in the field and gain insight into the evolutionary stage of high redshift \textit{Herschel} galaxies.
+This work heavily relies on \textit{Herschel} selected samples in order to make progress answering these questions. Starting with the H-ATLAS project, for which we present a comprehensive data release of near-IR counterparts in the SGP, and then use to derive their dust masses and the evolution in the space density of dust over the past $8\,$Gyr. We also make use of HerBS and the SPT-SZ survey, which represents a collection of some of the brightest IR galaxies known, allowing us to investigate their dust properties and determine if they are comparable to the local Universe. This is of particular importance to extragalactic studies at high redshifts where it is not uncommon to assume that the dust is non-evolving and is therefore the same as Galactic and local galaxy interstellar dust. Finally, we make use of the HerMES coverage of COSMOS to utilize the exceptional multiwavelength coverage in the field to gain insight into the evolutionary stage of high redshift \textit{Herschel} galaxies.
 
 Below we outline the key results obtained from this Thesis and present possible areas of research that would expand on this work.
 
@@ -24,7 +24,7 @@ In Chapter \ref{chapter:Dust_Mass_Functions}, we derived dust masses for the gal
     \item To estimate the dust masses of our sample, we first fitted modified blackbody models to their far-IR spectra to derive the luminosity weighted temperatures of the dust. We found that the median dust temperature is $\sim20\,$K and remains roughly constant from $z = 0$ to $z = 1$.
     \item We derived binned dust mass functions in two ways: first by assuming that all galaxies can be described by a single SED with a dust temperature of $20\,$K (in order to assume a uniform luminosity limit across the sample), and second, by allowing the dust temperature to be a free parameter in the SED fitting between $15$ and $25\,$K. The two DMFs were in reasonable agreement at all redshifts. We estimated that the galaxies detected by \textit{Herschel} were typically between $25$ and $60$ times dustier at $z = 1$ than they are locally, dependent on the distribution of dust temperatures.
     \item The integration of our DMFs at each redshift interval gave us measurements for the total amount of dust in galaxies at different epochs, from which we could estimate the dust mass density evolution from $8\,$Gyr in the past to the present day. In agreement with previous H-ATLAS studies that have measured the dust mass density out to $z\sim0.5$ (e.g. \citealt{Dunne_2011}), we observed a rapid decrease in dust density to $z = 0$, by a factor of approximately $2$. The decrease in dust density over the last $8$ billion years can be attributed to a depletion of dust due to star formation, dust destruction outweighing production, or dust lost from the galaxy to its halo.
-    \item There is tentative evidence of a peak in the dust mass density at $z\sim0.8 - 1$, although this is subject to potentially large uncertainties in the highest redshift bin. When compared to measurements of the star formation rate density collated from the literature, which show a definitive peak at $z\sim2$, we predict a short timescale of approximately $2$ to $3\,$Gyr between the peak in the star formation rate density and dust mass density. This would suggest that dust production pathways from stellar sources likely form a substantial amount of dust. {\color{red}The peak is now a dubious conclusion and should be played down here.}
+    \item There is tentative evidence of a peak in the dust mass density at $z \sim 1$, though in our study this is dependent on a single dipped measurement at $0.8 < z < 1$, and is subject to potentially large uncertainties in photometric redshifts. However, if true, the timescale of approximately $2$ to $3\,$Gyr between the peak in the star formation rate density (at $z \sim 2$) and dust mass density would suggest that substantial amounts of dust come from dust production pathways that allow for a delay between the onset of star formation and dust production.
 \end{itemize}
 
 In Chapter \ref{chapter:Dust_Evolution}, we studied the dust properties of a sample of $\sim 100$ galaxies between $z = 2$ and $z = 6$. We are particularly interested in their measured values of the dust emissivity index, $\beta$, an observational indicator of the physical and chemical properties of the dust grains.
@@ -44,6 +44,8 @@ In Chapter \ref{chapter:Radio_Identifications}, we made use of the correlation b
     \item We presented a proof-of-concept study for a new method that uses all the properties of the possible counterparts, from the UV to IR photometry, not just the flux density in a single band as is implemented in the LR method, to estimate the probability of association with the far-IR source. We conclude that a Machine Learning algorithm that uses all available bands, as well as the radial offset from the source, would have greater success at correctly identifying our counterparts than current methods.
 \end{itemize}
 
+In response to the research questions 
+
 {\color{red}So what's your final conclusion from all this put together? Your synthesis of what we have learned?}
 
 \section{Future Work}
@@ -57,7 +59,7 @@ During the course of this work, a deep VISTA survey called the \textit{Southern 
 
 \begin{figure}
     \centering
-	\includegraphics[width=0.75\columnwidth]{Figures/SHAKRS_depth.pdf}
+	\includegraphics[width=0.8\columnwidth]{Figures/SHAKRS_depth.pdf}
 	\caption[$K_s$-band magnitude of HerMES sources as a function of redshift]{The $K_s$-band magnitude of \textit{Herschel} sources in HerMES as a function of redshift, presented in \citealt{Dannerbauer_2022}. The limits of the VIKING and SHARKS surveys are illustrated with red and blue lines, respectively.}
 	\label{fig:SHARKS_depth}
 \end{figure}
@@ -82,6 +84,7 @@ At the end of Chapter \ref{chapter:Radio_Identifications} we introduced the idea
 
 \section{Concluding Remarks}
 
-With no future plans for a far-IR space telescope to replace \textit{Herschel}, the wide area surveys on which this work is based are not likely to be superseded in the near future. As such, our knowledge about dust in extragalactic sources will likely depend on \textit{Herschel} observations for many more years. This research represents a small addition to the many scientific papers that have utilized \textit{Herschel} observations (likewise SPT) to study how galaxies formed and evolved in the early Universe.
+{\color{red}Clarify: don't need a space telescope for some of this. Also, there are FIR probe ideas in planning/pep stage (e.g., PRIMA etc).}
 
-{\color{red}Do not forget changes to plots in appendices below.}
+
+With no future plans for a far-IR space telescope to replace \textit{Herschel}, the wide area surveys on which this work is based are not likely to be superseded in the near future. As such, our knowledge about dust in extragalactic sources will likely depend on \textit{Herschel} observations for many more years. This research represents a small addition to the many scientific papers that have utilized \textit{Herschel} observations (likewise SPT) to study how galaxies formed and evolved in the early Universe.
