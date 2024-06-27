@@ -46,6 +46,10 @@
 {Amblard} A.,  et~al., 2010, \mn@doi [\aap] {10.1051/0004-6361/201014586},
   \href {https://ui.adsabs.harvard.edu/abs/2010A&A...518L...9A} {518, L9}
 
+\bibitem[\protect\citeauthoryear{{An} et~al.,}{{An} et~al.}{2018}]{An_2018}
+{An} F.~X.,  et~al., 2018, \mn@doi [\apj] {10.3847/1538-4357/aacdaa}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018ApJ...862..101A} {862, 101}
+
 \bibitem[\protect\citeauthoryear{{Andrews}, {Driver}, {Davies}, {Kafle},
   {Robotham}  \& {Wright}}{{Andrews} et~al.}{2017}]{Andrews_2017}
 {Andrews} S.~K.,  {Driver} S.~P.,  {Davies} L.~J.~M.,  {Kafle} P.~R.,
@@ -396,9 +400,14 @@ Borys C.,  Smail I.,  Chapman S.~C.,  Blain A.~W.,  Alexander D.~M.,   Ivison
   {https://ui.adsabs.harvard.edu/abs/2019MNRAS.483...70C} {483, 70}
 
 \bibitem[\protect\citeauthoryear{{Chen} et~al.,}{{Chen}
-  et~al.}{2016}]{Chen_2016}
-{Chen} C.-C.,  et~al., 2016, \mn@doi [\apj] {10.3847/0004-637X/820/2/82}, \href
-  {https://ui.adsabs.harvard.edu/abs/2016ApJ...820...82C} {820, 82}
+  et~al.}{2016a}]{Chen_2016}
+{Chen} C.-C.,  et~al., 2016a, \mn@doi [\apj] {10.3847/0004-637X/820/2/82},
+  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...820...82C} {820, 82}
+
+\bibitem[\protect\citeauthoryear{{Chen} et~al.,}{{Chen}
+  et~al.}{2016b}]{Chen_2016b}
+{Chen} C.-C.,  et~al., 2016b, \mn@doi [\apj] {10.3847/0004-637X/831/1/91},
+  \href {https://ui.adsabs.harvard.edu/abs/2016ApJ...831...91C} {831, 91}
 
 \bibitem[\protect\citeauthoryear{{Cicone} et~al.,}{{Cicone}
   et~al.}{2014}]{Cicone_2014}
@@ -1302,6 +1311,12 @@ Herschel W.,  1785, Philosophical Transactions of the Royal Society of London,
   {https://ui.adsabs.harvard.edu/abs/2015A&A...579A..15K} {579, A15}
 
 \bibitem[\protect\citeauthoryear{{Koprowski}, {Dunlop}, {Micha{\l}owski},
+  {Cirasuolo}  \& {Bowler}}{{Koprowski} et~al.}{2014}]{Koprowski_2014}
+{Koprowski} M.~P.,  {Dunlop} J.~S.,  {Micha{\l}owski} M.~J.,  {Cirasuolo} M.,
+  {Bowler} R.~A.~A.,  2014, \mn@doi [\mnras] {10.1093/mnras/stu1402}, \href
+  {https://ui.adsabs.harvard.edu/abs/2014MNRAS.444..117K} {444, 117}
+
+\bibitem[\protect\citeauthoryear{{Koprowski}, {Dunlop}, {Micha{\l}owski},
   {Coppin}, {Geach}, {McLure}, {Scott}  \& {van der Werf}}{{Koprowski}
   et~al.}{2017}]{Koprowski_2017}
 {Koprowski} M.~P.,  {Dunlop} J.~S.,  {Micha{\l}owski} M.~J.,  {Coppin}
@@ -1405,6 +1420,10 @@ Langley S.~P.,  1880, in Proceedings of the American Academy of Arts and
 \bibitem[\protect\citeauthoryear{{Liu} et~al.,}{{Liu} et~al.}{2018}]{Liu_2018}
 {Liu} D.,  et~al., 2018, \mn@doi [\apj] {10.3847/1538-4357/aaa600}, \href
   {https://ui.adsabs.harvard.edu/abs/2018ApJ...853..172L} {853, 172}
+
+\bibitem[\protect\citeauthoryear{{Liu} et~al.,}{{Liu} et~al.}{2019}]{Liu_2019}
+{Liu} R.~H.,  et~al., 2019, \mn@doi [\mnras] {10.1093/mnras/stz2228}, \href
+  {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.1770L} {489, 1770}
 
 \bibitem[\protect\citeauthoryear{{L{\'o}pez-Caniego}
   et~al.,}{{L{\'o}pez-Caniego} et~al.}{2013}]{Lopez-Caniego_2013}

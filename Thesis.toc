@@ -57,7 +57,7 @@
 \contentsline {subsection}{\numberline {3.7.2}Evolution of the Dust Mass Function}{84}{subsection.3.7.2}%
 \contentsline {subsection}{\numberline {3.7.3}Dust Mass Density}{85}{subsection.3.7.3}%
 \contentsline {subsection}{\numberline {3.7.4}Comparison with the Star Formation Rate Density}{88}{subsection.3.7.4}%
-\contentsline {section}{\numberline {3.8}Conclusions}{89}{section.3.8}%
+\contentsline {section}{\numberline {3.8}Conclusions}{90}{section.3.8}%
 \contentsline {chapter}{\numberline {4}Dust Properties of IR-bright, Star Forming Galaxies}{91}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Introduction}{91}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Obtaining Redshifts from Carbon Monoxide Lines}{92}{section.4.2}%
@@ -87,10 +87,10 @@
 \contentsline {subsection}{\numberline {5.3.4}Calculating the Significance of Radio Associations}{126}{subsection.5.3.4}%
 \contentsline {section}{\numberline {5.4}Results of the Monte Carlo Method Applied to \textit {Herschel} Sources}{129}{section.5.4}%
 \contentsline {subsection}{\numberline {5.4.1}Determining SPIRE Positional Errors}{131}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{133}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.2}The Nature of Multiple Identifications}{132}{subsection.5.4.2}%
 \contentsline {subsection}{\numberline {5.4.3}Missing Identifications}{134}{subsection.5.4.3}%
-\contentsline {section}{\numberline {5.5}\textit {Herschel} Galaxies in Relation to the Star-Formation Main Sequence}{136}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Identifying Multiwavelength DSFG Counterparts from Blank Fields}{141}{section.5.6}%
+\contentsline {section}{\numberline {5.5}\textit {Herschel} Galaxies in Relation to the Star-Formation Main Sequence}{135}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Identifying Multiwavelength DSFG Counterparts from Blank Fields}{140}{section.5.6}%
 \contentsline {section}{\numberline {5.7}Conclusions}{145}{section.5.7}%
 \contentsline {chapter}{\numberline {6}Conclusions}{147}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Thesis Overview}{147}{section.6.1}%
